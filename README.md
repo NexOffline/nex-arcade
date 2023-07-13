@@ -9,6 +9,6 @@ Minigame practicing script
 
 **REQUIREMENTS:**
 -----------------
-OX LIB: https://github.com/overextended/ox_lib
-PS UI: https://github.com/Project-Sloth/ps-ui
+OX LIB: https://github.com/overextended/ox_lib <br>
+PS UI: https://github.com/Project-Sloth/ps-ui <br>
 NoPixel Hacking MiniGame: https://github.com/Jesper-Hustad/NoPixel-minigame
