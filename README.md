@@ -13,4 +13,4 @@ OX LIB: https://github.com/overextended/ox_lib
 
           -- For pre-made hacks --
 PS UI: https://github.com/Project-Sloth/ps-ui
-https://github.com/Jesper-Hustad/NoPixel-minigame
+Nopixel Hacking Minigame: https://github.com/Jesper-Hustad/NoPixel-minigame
